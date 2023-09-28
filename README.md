@@ -2,6 +2,8 @@
 
 A small php website to communicate with a database to query and insert users.
 
+There's a sample database called `GetInfo.sql` in the sql folder.
+
 > Version 0.1.0
 
 > **Note:** This app is not intended for production use.
