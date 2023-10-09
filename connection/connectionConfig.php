@@ -8,7 +8,7 @@ $db_pass = ""; // Password
 $db_name = ""; // Database name
 
 try {
-  $dbh = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_ass);
+  $dbh = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
 } catch (PDOException $e) {
   echo "Couldn't Connect";
 }
