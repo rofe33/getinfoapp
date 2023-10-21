@@ -11,4 +11,4 @@ There's a sample database called `GetInfo.sql` in the sql folder.
 >
 > Thank You :)
 >
-> -- 0xR3V
+> -- Rofe
